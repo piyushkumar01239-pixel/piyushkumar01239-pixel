@@ -1,17 +1,3 @@
-<!--
-╔═══════════════════════════════════════════════════════════════╗
-║                    REPLACE THESE VALUES                      ║
-╠═══════════════════════════════════════════════════════════════╣
-║ [YOUR_GITHUB_USERNAME]   → piyushkumar01239-pixel          ║
-║ [YOUR_LINKEDIN]          → piyush-kumar-0a5412328          ║
-║ [YOUR_EMAIL]             → piyushkumar01239@gmail.com      ║
-║ [YOUR_PORTFOLIO]         → https://your-portfolio.com      ║
-║ [YOUR_LEETCODE]          → piyush_1_1_1_                   ║
-║ [YOUR_TRYHACKME]         → piyushkumar357                  ║
-╚═══════════════════════════════════════════════════════════════╝
--->
-
-<!-- HERO SECTION WITH TYPING ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Piyush+Kumar;Computer+Science+Student;Problem+Solver;Software+Developer;Cybersecurity+Enthusiast;Network+Explorer;AI+%26+Tech+Learner" alt="Typing SVG" />
 </div>
@@ -24,15 +10,21 @@
 
 <br>
 
-<!-- GITHUB STATS ROW -->
+<!-- GITHUB STATS - USING RELIABLE SERVICES -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyushkumar01239-pixel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
+  <!-- Using GitHub's native embed for stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyushkumar01239-pixel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar01239-pixel&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar01239-pixel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
+
+<!-- FALLBACK: If stats don't load, this will show -->
+<p align="center">
+  <i>📊 Stats will appear once you start contributing to repositories</i>
+</p>
 
 ---
 
