@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Piyush+Kumar;Computer+Science+Student;Problem+Solver;Software+Developer;Cybersecurity+Enthusiast;Network+Explorer;AI+%26+Tech+Learner" alt="Typing SVG" />
 </div>
@@ -21,7 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar01239-pixel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
-<!-- FALLBACK: If stats don't load, this will show -->
 <p align="center">
   <i>📊 Stats will appear once you start contributing to repositories</i>
 </p>
