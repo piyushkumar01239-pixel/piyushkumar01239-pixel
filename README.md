@@ -65,6 +65,18 @@ Passionate Computer Science student with a deep interest in **software engineeri
     </td>
     <td style="border: 2px solid rgba(0, 212, 255, 0.2); border-radius: 12px; padding: 20px; background: rgba(13, 17, 23, 0.8); width: 25%; vertical-align: top;">
 
+### 🔐 Cybersecurity
+- 🌐 Networking
+- 🐧 Linux
+- 🔍 Nmap
+- 📡 Wireshark
+- 🛡️ Vulnerability Assessment
+- 🔒 Web Security
+- 🎯 Ethical Hacking
+
+    </td>
+    <td style="border: 2px solid rgba(0, 212, 255, 0.2); border-radius: 12px; padding: 20px; background: rgba(13, 17, 23, 0.8); width: 25%; vertical-align: top;">
+
 ### 💻 Programming
 - ☕ Java
 - 🐍 Python
@@ -81,18 +93,6 @@ Passionate Computer Science student with a deep interest in **software engineeri
 - 🌶️ Flask
 - 🐙 Git
 - 🐈 GitHub
-
-    </td>
-    <td style="border: 2px solid rgba(0, 212, 255, 0.2); border-radius: 12px; padding: 20px; background: rgba(13, 17, 23, 0.8); width: 25%; vertical-align: top;">
-
-### 🔐 Cybersecurity
-- 🌐 Networking
-- 🐧 Linux
-- 🔍 Nmap
-- 📡 Wireshark
-- 🛡️ Vulnerability Assessment
-- 🔒 Web Security
-- 🎯 Ethical Hacking
 
     </td>
   </tr>
